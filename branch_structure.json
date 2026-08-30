@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1994-lending-withdraw-uses-expect-on-total-deposits",
+    "fix/issue-2007-stellar-lend-cargo-toml-contracts-bridge-is-not",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1994-lending-withdraw-uses-expect-on-total-deposits": "main",
+    "fix/issue-2007-stellar-lend-cargo-toml-contracts-bridge-is-not": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1994-lending-withdraw-uses-expect-on-total-deposits",
+    "fix/issue-2007-stellar-lend-cargo-toml-contracts-bridge-is-not",
+    "origin"
+  ]
+}
